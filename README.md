@@ -5,6 +5,10 @@ bir Hata Takip Sistemi olarak tasarlanmıştır. Sistem, kullanıcı dostu bir a
 kimlik doğrulama özelliklerini içerir.
 
 ### Kullanım
+Anasayfa Formunda bulunan alanları doldurup kayıt ekleyebilirsiniz.
+Formda bulunan "Boyut","Durum" ve "Vardiya" alanlarının sahip olduğu değerlerde oynama yapmak için yetki kontrolü sonrasında
+istediğiniz işlemleri yapabilirsiniz.
+
 ## Ana Sayfa Formu
 Ana sayfa formu yüklenirken "boyut", "durum" ve "vardiya" değerleri ilgili tablolardan comboBox araçlarına yüklenir.
 Hata kaydı eklemek için tüm gerekli değerleri doldurun.
