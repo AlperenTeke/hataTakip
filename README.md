@@ -31,8 +31,8 @@ Doğru giriş yapıldığında, vardiya ekleme sayfasına yönlendirilirsiniz.
 Vardiya ekleme sayfasında, bir metin kutusu, bir datagridview ve vardiya eklemek için üç düğme bulunmaktadır.
 Veritabanındaki "vardiya" tablosuna vardiya eklemek için gerekli işlemleri gerçekleştirin.
 
-### Veritabanı ve Tablo Oluşturma
-## Veritabanı ve tabloları oluşturmak için aşağıdaki SQL kodunu kullanabilirsiniz:
+## Veritabanı ve Tablo Oluşturma
+### Veritabanı ve tabloları oluşturmak için aşağıdaki SQL kodunu kullanabilirsiniz:
 
 ```
 -- Veritabanı Oluştur
